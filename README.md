@@ -1,2 +1,2 @@
 # SAKILA-DATABASE
-An MyySQL Project
+ MySQL Project
