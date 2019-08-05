@@ -1,5 +1,6 @@
 # SAKILA-DATABASE
- MySQL Project
+ A MySQL Project
+ 
  Sakila Queries on MySQL
 
 Background
